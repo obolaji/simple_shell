@@ -8,7 +8,7 @@
  * Return: Always 0.
  */
 
-int main (void)
+int main(void)
 {
 	char i;
 
@@ -23,7 +23,7 @@ int main (void)
 			break;
 		}
 		else
-		{	
+		{
 			printf("Welcome young - %c\n ", i);
 			putchar(i);
 		}
@@ -31,4 +31,3 @@ int main (void)
 	}
 	return (0);
 }
-	
